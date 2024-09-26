@@ -1,1 +1,2 @@
-# -Quality-Inspection-of-Casting-Products-using-Deep-Learning
+#**Metal Defect Detection using CNN**
+
